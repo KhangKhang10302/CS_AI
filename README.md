@@ -1,6 +1,8 @@
 # CS_AI
 Cơ sở trí tuệ nhân tạo
 
+**Mô tả các lab**
+
 **Lab1**
 
 các thuật toán tìm kiếm:
