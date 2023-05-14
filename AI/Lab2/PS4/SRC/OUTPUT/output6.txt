@@ -1,0 +1,47 @@
+﻿8
+-A OR C
+-A OR -C OR D
+B
+-A OR -B OR D OR E
+-A OR C OR F
+C OR E
+-B OR -C OR G
+-E OR G
+18
+-A OR -B OR D
+C
+-A OR D OR E
+-A OR -C OR G
+-A OR -B OR E OR G
+-A OR C OR G
+-C OR D
+-A OR -B OR D OR F
+-B OR D OR E
+C OR F
+-A OR D
+-A OR -B OR G
+-A OR D OR F
+-C OR G
+-A OR -B OR D OR G
+-A OR -B OR F OR G
+-B OR E OR G
+C OR G
+16
+-B OR D
+-B OR G
+-A OR E OR G
+-A OR G
+-A OR D OR G
+-A OR F OR G
+-B OR D OR F
+-B OR D OR G
+-B OR F OR G
+D OR E
+D
+D OR F
+E OR G
+G
+D OR G
+F OR G
+0
+NO
