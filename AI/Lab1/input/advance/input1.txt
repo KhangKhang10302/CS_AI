@@ -1,0 +1,15 @@
+3
+7 18 4 12
+6 12 1 19
+1 16 3 1
+xxxxxxxxxxxxxxxxxxxxxx
+x               o  o x
+                     x
+xo                   x
+x           o        x
+x                    x
+x           o        x
+x                 o  x
+x                    x
+x                 S  x
+xxxxxxxxxxxxxxxxxxxxxx
